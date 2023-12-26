@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\экзамен\2\obj\Debug\2.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\экзамен\2\obj\Debug\_2._1_билет.resources
+C:\Users\Asus\Desktop\экзамен\2\obj\Debug\_2._2_билет.resources
+C:\Users\Asus\Desktop\экзамен\2\obj\Debug\_2._3_билет.resources
+C:\Users\Asus\Desktop\экзамен\2\obj\Debug\_2.Form1.resources
+C:\Users\Asus\Desktop\экзамен\2\obj\Debug\_2.Form2.resources
+C:\Users\Asus\Desktop\экзамен\2\obj\Debug\_2.Properties.Resources.resources
+C:\Users\Asus\Desktop\экзамен\2\obj\Debug\2.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\экзамен\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\экзамен\2\bin\Debug\2.exe.config
+C:\Users\Asus\Desktop\экзамен\2\bin\Debug\2.exe
+C:\Users\Asus\Desktop\экзамен\2\bin\Debug\2.pdb
+C:\Users\Asus\Desktop\экзамен\2\obj\Debug\2.exe
+C:\Users\Asus\Desktop\экзамен\2\obj\Debug\2.pdb
+C:\Users\Asus\Desktop\экзамен\2\obj\Debug\_2.admin.resources
